@@ -1,0 +1,7 @@
+1. Integrate Login with Google Login
+2. Integrate Login with Facebook Login
+3. Integration insert event code Google Calendar
+- When New Appointment Booked
+- When Appointment Scheduled to Technician
+- When Appointment Re-Scheduled to Technician
+4. Display Google Calendar
